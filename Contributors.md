@@ -1,5 +1,5 @@
 # Contributors
-- [Joy Jean](htteps//github.com/joyjean09)
+- [Joy Jean](https//github.com/joyjean09)
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
